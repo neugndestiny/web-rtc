@@ -24,3 +24,7 @@ This is a work in progress. If you find a mistake or have a suggestion, please [
 ## For 'step-04', 'step-05', 'step-06'
 
 Run `npm install` before running the code.
+
+## Run
+
+Run node index.js
